@@ -20,6 +20,7 @@ online-retail-analytics/
 │   └── EDA.ipynb       # Итоговый отчет с графиками
 ├── data/               # База данных и сырые файлы
 ├── requirements.txt    # Зависимости проекта
+├── .env.example                # Шаблон конфигурации окружения
 └── README.md           # Документация
 ```
 
